@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+.NAVBAR{
+  background:#007bff;
+}
+.navbar-nav li {
+  padding: 0 65px;
+}
+
+.navbar-nav li a{
+  color: #fff !important;
+  font-weight: 500;
+  float:right;
+  text-align: left;
+  right:0%
+}
+#abvveieSection{
+
+color:#007bff;
+padding-top: 2%;
+}
+/* 
+.row {
+ display: inline-block;
+  border: 1px solid lightgrey;
+  font-size: 14px;
+} */
+.reviewSection,.Brand{
+  display: inline-block;
+  border: 1px solid lightgrey;
+  font-size: 14px;
+}
+
+#BrandsSection{
+  color: #fff;
+  padding-top: 2%;
+}
+.Brandclor{
+  background-color: #007bff;
+}
+.CardBorders{
+  border: none;
+}
+ul{
+  position: absolute;
+  display: flex;
+  
+}
+ul li {
+  list-style: none;
+  text-align: center;
+  display: block;
+}
+ul li a {
+  text-decoration: none;
+  padding: 10px;
+  display: block;
+}
